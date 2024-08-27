@@ -20,7 +20,7 @@ HTML Formatting: The report is structured using HTML, with basic styling for rea
 
 Improved Error Handling and Output Management: Each function checks for successful execution and captures both stdout and stderr to provide detailed output in the report.
 
-How to Use:    
+How to Use:
 Run the Script: Execute the script in a Python environment where you have the necessary permissions and tools installed (theHarvester, nmap, msfconsole, etc.).
 
 View the Report: After the script completes, open the generated penetration_test_report.html file in any web browser to view the comprehensive report.
