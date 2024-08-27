@@ -1,12 +1,16 @@
 # Cybersecurity
 To get information about a dns:
 $python pat.py --company [YourClientDomainName] -dns
+
 To get a list of email addresses:
 $python pat.py --company [YourClientDomainName] -emails
+
 To get information about WHOIS:
 $python pat.py --company [YourClientDomainName] -whois
+
 To get a list of leaked files on the internet:
 $python pat.py --company [YourClientDomainName] -files
+
 To get information about your client social media:
 $python pat.py --company [YourClientDomainName] -socialmedia
 To get information about your client using the search engines:
