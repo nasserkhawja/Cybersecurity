@@ -16,7 +16,7 @@ generate_report() Function: This function creates an HTML report summarizing the
 
 JSON Results Files: Each phase of the penetration test saves its output to a separate JSON file. This approach makes it easy to parse and include in the final report.
 
-HTML Formatting: The report is structured using HTML, with basic styling for readability. The use of <pre> tags ensures that the JSON data is displayed in a readable format.
+HTML Formatting: The report is structured using HTML, with basic styling for readability. The use of tags ensures that the JSON data is displayed in a readable format.
 
 Improved Error Handling and Output Management: Each function checks for successful execution and captures both stdout and stderr to provide detailed output in the report.
 
